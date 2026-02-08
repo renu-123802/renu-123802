@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Renu Bhatt
+                                                               ## 👋 Hi, I'm Renu Bhatt
 
-### Final Year B.Tech Student | Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast
+                                    ### Final Year B.Tech Student | Aspiring Software Engineer | Full-Stack & AI/ML Enthusiast
 
 ---
 
