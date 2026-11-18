@@ -1,123 +1,85 @@
-# 👋 Hey there, I'm Renu Bhatt!
+<h1 align="center">Hi, I'm Renu Bhatt 👋</h1>
 
-\<div align="center">
+<p align="center">
+  <b>Full-Stack Developer</b> · React · Node.js · MongoDB · Python<br>
+  B.Tech CSE, Graphic Era Hill University (2022–2026) · CGPA 7.46
+</p>
 
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Backend+Development+Enthusiast;AI+%26+Technology+Explorer;Always+Learning+and+Building](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=Aspiring+Software+Engineer;Backend+Development+Enthusiast;AI+%26+Technology+Explorer;Always+Learning+and+Building)!" alt="Typing SVG" />
-
-### Software Engineer | Backend Developer | Tech Explorer
-
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=renu-123802&label=Profile%20Views&color=blueviolet&style=flat](https://komarev.com/ghpvc/?username=renu-123802\&label=Profile%20Views\&color=blueviolet\&style=flat)" alt="Profile views" />
-
-\</div>
-
----
-
-### 🌍 About Me
-
-I'm a Computer Science graduate passionate about technology, software development, and solving real-world problems through code.
-
-I enjoy exploring new technologies, strengthening my problem-solving skills, and understanding how scalable software systems work.
-
-- 🎓 B.Tech in Computer Science & Engineering — Graphic Era Hill University (2026)
-- 💻 Aspiring Software Engineer with an interest in Backend Development
-- 🐍 Experienced with Python, JavaScript, Node.js and REST APIs
-- 🤖 Interested in Artificial Intelligence, RAG, LLMs and Computer Vision
-- 🧠 Solved **206 problems on LeetCode**
-- 🏅 Earned LeetCode 100 Days Badge (2025)
-- 🌱 Continuously learning Data Structures, Algorithms and Backend Engineering
-- 🚀 Open to learning, collaboration and software engineering opportunities
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20Full--Stack%20roles-2ea44f?style=for-the-badge" alt="Open to work">
+  <a href="https://leetcode.com/u/renubhatt391/"><img src="https://img.shields.io/badge/LeetCode-206%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://www.linkedin.com/in/renu-bhatt-6b536227a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:renubhatt391@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🚀 About me
 
-**Programming Languages**
+I build web apps end to end and ship them. I like turning a problem into something people can open and use, and I care about clean APIs, grounded AI answers and code that other people can review.
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=python,cpp,java,js](https://skillicons.dev/icons?i=python,cpp,java,js)" /> \</p>
-
-**Frontend Development**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,react](https://skillicons.dev/icons?i=html,css,react)" /> \</p>
-
-**Backend Development**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express,flask](https://skillicons.dev/icons?i=nodejs,express,flask)" /> \</p>
-
-**Databases**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=mongodb,mysql](https://skillicons.dev/icons?i=mongodb,mysql)" />
-\</p>
-
-**AI & Computer Vision**
-
-\<p>   \<img src="[https://skillicons.dev/icons?i=opencv](https://skillicons.dev/icons?i=opencv)" />   \<img src="[https://img.shields.io/badge/RAG-Document%20AI-blueviolet?style=flat-square](https://img.shields.io/badge/RAG-Document%20AI-blueviolet?style=flat-square)" />   \<img src="[https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=flat-square](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=flat-square)" />   \<img src="[https://img.shields.io/badge/LLMs-Generative%20AI-orange?style=flat-square](https://img.shields.io/badge/LLMs-Generative%20AI-orange?style=flat-square)" /> \</p>
-
-**Developer Tools**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" />
-\</p>
+- 🛠️ Built and deployed a **RAG app** and a **real-time computer-vision app** with live demos
+- 🌐 Full-stack work in the **MERN stack** (React, Node.js, Express, MongoDB)
+- 🧠 **206 LeetCode problems** solved · 100 Days Badge (2025)
+- 💼 Web Development Intern at Learntricks (May–Sept 2025): CRUD with MVC, Git workflows, code reviews
+- 📚 Learning: System Design
 
 ---
 
-### 💼 Professional Experience
+## ⭐ Featured projects
 
-**Web Development Intern — Learntricks**
+### 📚 Study Buddy: RAG Document Q&A
+Ask questions about any PDF and get answers **grounded in the document**, with the source chunks shown. If the answer isn't in the file, it says so instead of guessing.
 
-*May 2025 – September 2025 | Remote*
+- PDF parsing → overlapping chunks → `all-MiniLM-L6-v2` embeddings → local **FAISS** index
+- **Groq (Llama 3.3 70B)** with grounded prompting; retrieval quality debugged to reduce hallucination
+- **Stack:** Python · FAISS · Sentence-Transformers · Groq · Streamlit
 
-- Developed reusable and responsive UI components using HTML, CSS and JavaScript.
-- Implemented CRUD functionality following MVC architecture.
-- Collaborated using Git and GitHub through branching and pull requests.
-- Participated in code reviews and debugging.
-- Improved understanding of collaborative software development workflows.
+[🔴 Live demo](https://renu-123802-study-buddy-rag-app-aygzcq.streamlit.app/) · [💻 Code](https://github.com/renu-123802/study-buddy-rag)
 
----
+### 📋 Task-Flow: Project Management App
+A Trello-inspired task and project manager with user-specific boards, built across the frontend, backend and database.
 
-### 🧠 Problem Solving
+- REST APIs such as `POST /api/board/create` and `GET /api/board/user`
+- MongoDB for persistent storage, responsive React UI, config through environment variables
+- **Stack:** React.js · Node.js · Express.js · MongoDB
 
-\<p>   \<img src="[https://img.shields.io/badge/LeetCode-206%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white](https://img.shields.io/badge/LeetCode-206%20Problems-orange?style=for-the-badge\&logo=leetcode\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/100%20Days-Badge%202025-success?style=for-the-badge](https://img.shields.io/badge/100%20Days-Badge%202025-success?style=for-the-badge)" /> \</p>
+[💻 Code](https://github.com/renu-123802/TaskFlow)
 
-I regularly practice Data Structures and Algorithms using C++ to strengthen my logical thinking, coding ability and problem-solving skills.
+### 😴 DriveAlert: Driver Drowsiness Detection
+A real-time, browser-based driver safety app. It tracks **68 facial landmarks**, computes Eye and Mouth Aspect Ratios, and sounds an alarm when a threshold is crossed over consecutive frames.
 
-🔗 [**Visit My LeetCode Profile**](https://leetcode.com/)
+- Runs in the browser with Streamlit-WebRTC (STUN/TURN configured)
+- Modular pipeline: face, blink and yawn detection kept separate
+- **Stack:** Python · OpenCV · Dlib · NumPy · Pygame · Streamlit-WebRTC
 
----
-
-### 🎓 Education
-
-**Graphic Era Hill University**
-
-Bachelor of Technology — Computer Science and Engineering
-
-📅 August 2022 – June 2026
-
-📈 CGPA: **7.46 / 10**
+[🔴 Live demo](https://drivealert-2vbnlab7v9wecg5ojjkpls.streamlit.app/) · [💻 Code](https://github.com/renu-123802/DriveAlert)
 
 ---
 
-### 📊 GitHub Statistics
+## 🧰 Tech stack
 
-\<div align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=renu-123802&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=renu-123802\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=renu-123802&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=renu-123802\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
-\</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,py,java,cpp,react,nodejs,express,mongodb,flask,html,css,opencv,git,github,linux,androidstudio" alt="Tech stack icons">
+</p>
+
+| Area | Skills |
+|---|---|
+| **Languages** | JavaScript, Python, Java, C++, SQL |
+| **Frontend** | React.js, HTML, CSS, Responsive UI |
+| **Backend** | Node.js, Express.js, Flask, REST APIs, MVC |
+| **Database** | MongoDB, SQL |
+| **Core CS** | Data Structures & Algorithms, OOP, System Design (learning) |
+| **Tools** | Git, GitHub, Linux, Android Studio, Code Reviews |
 
 ---
 
-### 🔗 Let's Connect
+## 📫 Let's connect
 
-I'm always excited to connect with developers, recruiters and technology enthusiasts. Feel free to reach out!
+I'm looking for a **Software Engineer / Full-Stack Developer** role. The fastest way to reach me is email or LinkedIn.
 
-\<p align="left">   \<a href="mailto\:renubhatt391\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://github.com/renu-123802](https://github.com/renu-123802)">     \<img src="[https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge\&logo=github\&logoColor=white)" />   \</a>   \<a href="ADD_YOUR_LINKEDIN_URL">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />   \</a> \</p>
-
----
-
-\<div align="center">
-
-### ✨ "Dream. Learn. Build. Repeat."
-
-**Thanks for visiting my profile! Happy Coding! 🚀**
-
-\</div>
+<p>
+  <a href="mailto:renubhatt391@gmail.com">renubhatt391@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/renu-bhatt-6b536227a">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/renubhatt391/">LeetCode</a>
+</p>
