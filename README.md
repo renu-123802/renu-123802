@@ -1,132 +1,155 @@
-## 👋 Hi, I'm Renu Bhatt  
+# 👋 Hi, I'm Renu Bhatt
 
-🎓 **Final Year B.Tech (CSE) Student | Aspiring Software Engineer**  
-💻 Full-Stack Developer | DSA | AI/ML Enthusiast  
+### Aspiring Software Engineer | Backend Development | AI-Powered Applications
 
----
+I enjoy building software that solves real-world problems. I'm a Computer Science graduate interested in backend engineering, scalable applications, problem-solving, and integrating AI into practical products.
 
-## 🚀 About Me  
+I believe in learning by building, writing clean code, and continuously improving my engineering skills.
 
-I’m a **Computer Science undergraduate graduating in June 2026**, passionate about building **scalable web applications** and solving **real-world problems through code**.
-
-- 💡 Strong interest in **Backend Development & System Design**  
-- ⚙️ Experience in **Full-Stack Development (MERN Stack)**  
-- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly  
-- 🤖 Built projects using **AI (NLP & Computer Vision)**  
+\<p align="left">   \<a href="mailto\:renubhatt391\@gmail.com">     \<img src="[https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://github.com/renu-123802](https://github.com/renu-123802)">     \<img src="[https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)" />   \</a> \</p>
 
 ---
 
-## 🧠 Currently Focused On  
+## 🚀 About Me
 
-- 🚀 Building **full-stack applications**  
-- 📊 Strengthening **Data Structures & Algorithms**  
-- ⚡ Backend development using **Node.js & Express**  
-- 🗄️ Working with **MongoDB & SQL databases**  
-- 🤖 Learning **AI/ML fundamentals**  
-
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Languages  
-`C++` `Java` `JavaScript` `Python` `SQL`  
-
-### 🌐 Web & Backend  
-`HTML` `CSS` `React.js`  
-`Node.js` `Express.js`  
-`REST APIs` `JWT Authentication`  
-
-### 🗄️ Databases  
-`MongoDB` `PostgreSQL`  
-
-### 📚 Core CS Concepts  
-`Data Structures & Algorithms`  
-`Object-Oriented Programming (OOPs)`  
-`Operating Systems` `DBMS`  
-
-### ⚙️ Tools  
-`Git` `GitHub` `VS Code`  
+- 🎓 B.Tech in Computer Science & Engineering — Graphic Era Hill University (2026)
+- 💻 Interested in Software Engineering and Backend Development
+- 🐍 Experienced with Python, JavaScript, Node.js and REST APIs
+- 🤖 Built AI applications using RAG, LLMs and Computer Vision
+- 🧠 Solved **206 problems on LeetCode**
+- 🏅 Earned the LeetCode 100 Days Badge (2025)
+- 🌱 Continuously strengthening my DSA, backend and software development skills
+- 🤝 Open to connecting with developers and exploring software engineering opportunities
 
 ---
 
-## 📌 Featured Projects  
+## 🛠️ Technical Skills
 
-### 🚀 TaskFlow – Task Management System *(Ongoing)*  
-**Tech:** React.js, Node.js, Express.js, MongoDB  
-- Built a Trello-like full-stack application to manage tasks & workflows  
-- Designed RESTful APIs for efficient backend operations  
-- Implemented authentication and role-based access control  
-- Optimized UI for better user experience  
+**Programming Languages**
 
-🔗 https://github.com/renu-123802/TaskFlow  
 
----
 
-### 🚗 Driver Drowsiness Detection System  
-**Tech:** Python, OpenCV, Dlib, NumPy  
-- Developed a real-time fatigue detection system using computer vision  
-- Used facial landmark detection for eye & mouth tracking  
-- Implemented EAR & MAR algorithms for drowsiness detection  
-- Integrated alert system to enhance driver safety  
 
-🔗 https://github.com/renu-123802/Driver-Drowsiness-Detection  
+\
 
----
 
-### 📄 Resume Analyzer  
-**Tech:** Python, NLP, spaCy, NLTK  
-- Built an NLP-based resume screening system  
-- Extracted key information like skills, education, and experience  
-- Automated resume-job matching to improve hiring efficiency  
+**Frontend Development**
 
-🔗 https://github.com/renu-123802/Resume-Analyzer  
 
----
+\
 
-### 🌦️ Weather App  
-**Tech:** JavaScript, Public APIs  
-- Displays real-time weather data  
-- Clean UI with dynamic API-based updates  
 
----
+**Backend Development**
 
-## 💼 Experience  
 
-### 💻 Web Development Intern — Learntricks *(Remote)*  
-**May 2025 – June 2025**  
-- Developed responsive UI using HTML, CSS, JavaScript  
-- Implemented CRUD operations for web applications  
-- Collaborated using Git & GitHub  
-- Improved UI/UX and application performance  
+
+\
+
+
+**Databases**
+
+\
+
+
+**AI & Computer Vision**
+
+
+
+\
+
+
+**Tools & Concepts**
+
+
+
+`OOP` `DSA` `MVC Architecture` `GitHub Pull Requests`
 
 ---
 
-## 📈 GitHub Stats  
+## 💡 Featured Projects
 
-![Renu's GitHub stats](https://github-readme-stats.vercel.app/api?username=renu-123802&show_icons=true&theme=tokyonight)
+### 📚 Study Buddy — AI-Powered PDF Question Answering
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renu-123802&layout=compact&theme=tokyonight)
+**Python | RAG | FAISS | Sentence Transformers | Groq LLM | Streamlit**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=renu-123802&theme=tokyonight)
+- Built a Retrieval-Augmented Generation application for asking natural-language questions about PDF documents.
+- Implemented PDF parsing, overlapping text chunking, embeddings and similarity-based retrieval.
+- Integrated Groq's Llama 3.3 70B model to generate document-grounded answers.
+- Included source chunks and handling for questions whose answers are not present in the document.
+- Deployed using Streamlit Cloud.
+
+### 📋 Task-Flow — Project Management Application
+
+**React.js | Node.js | Express.js | MongoDB**
+
+- Developed a full-stack, Trello-inspired project and task management application.
+- Built RESTful APIs for creating and retrieving user-specific boards.
+- Integrated MongoDB for persistent data storage.
+- Created a responsive React.js interface and handled frontend-backend integration.
+
+### 🚗 DriveAlert — Driver Drowsiness Detection
+
+**Python | OpenCV | Dlib | NumPy | Pygame | Streamlit-WebRTC**
+
+- Developed a real-time, browser-accessible driver safety application.
+- Used Dlib's 68-point facial landmarks and OpenCV for face tracking.
+- Implemented Eye Aspect Ratio (EAR) and Mouth Aspect Ratio (MAR) algorithms.
+- Added audio alerts and facial landmark visualisation to detect signs of drowsiness.
+
+🔗 Explore my project repositories: [GitHub Repositories](https://github.com/renu-123802?tab=repositories)
 
 ---
 
-## 🎯 Career Goals  
+## 💼 Professional Experience
 
-- 🚀 Build **scalable backend systems**  
-- 🧠 Strengthen **DSA for top tech roles**  
-- 💼 Secure a **Software Engineering role (2026 placements)**  
-- 🌱 Grow into a **well-rounded developer**  
+### Web Development Intern — Learntricks
 
----
+**May 2025 – September 2025 | Remote**
 
-## 📫 Connect With Me  
-
-- 📧 **renubhatt391@gmail.com**  
-- 💼 https://linkedin.com/in/renu-bhatt-6b536227a/  
-- 🧠 https://leetcode.com/u/renubhatt391/  
-- 🐙 https://github.com/renu-123802  
+- Developed reusable and responsive UI components using HTML, CSS and JavaScript.
+- Implemented CRUD functionality following MVC architecture.
+- Collaborated through Git and GitHub using branches, pull requests and code reviews.
+- Debugged application issues and improved UI functionality.
 
 ---
 
-✨ *Consistency, curiosity, and continuous learning drive my journey.*
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms to strengthen my problem-solving and coding skills.
+
+- **206 problems solved** on LeetCode
+- LeetCode 100 Days Badge (2025)
+- Practicing DSA using C++
+
+
+
+---
+
+## 📊 GitHub Statistics
+
+\<p align="center">   \<img src="[https://github-readme-stats.vercel.app/api?username=renu-123802&show_icons=true&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=renu-123802\&show_icons=true\&hide_border=true\&theme=transparent)" height="165" />   \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=renu-123802&layout=compact&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=renu-123802\&layout=compact\&hide_border=true\&theme=transparent)" height="165" /> \</p>
+
+---
+
+## 🎓 Education
+
+**Graphic Era Hill University**
+
+Bachelor of Technology — Computer Science and Engineering
+August 2022 – June 2026
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people who build, learn and share knowledge in technology.
+
+📧 **Email:** [renubhatt391@gmail.com](mailto\:renubhatt391@gmail.com)
+
+💻 **GitHub:** [github.com/renu-123802](https://github.com/renu-123802)
+
+🔗 **LinkedIn:** Add your LinkedIn profile URL here.
+
+---
+
+\<p align="center">   \<b>Keep Learning. Keep Building. Keep Growing. 🚀\</b> \</p>
